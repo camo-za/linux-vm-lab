@@ -138,7 +138,7 @@ Each folder contains:
 
 ## 🎯 Current Learning Focus
 
-- Complete Linux lab documentation  
+- Use Linux lab to practise real-world IT support tickets  
 - Continue studying for **CompTIA A+ (Core 1 & Core 2)**  
 - Build additional small labs (Windows & Linux)  
 - Strengthen troubleshooting & command-line skills  
